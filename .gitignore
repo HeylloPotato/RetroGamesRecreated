@@ -1,2 +1,6 @@
 /.vscode
-/pong.exe
+
+# Executables
+*.exe
+*.out
+*.app
